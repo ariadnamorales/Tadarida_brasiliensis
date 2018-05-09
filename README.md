@@ -2,7 +2,7 @@
 =======
 This gitHub rep contains data and scripts used to analyze genetic structure and morphometric differentiation among populations of the bat species *Tadarida brasiliensis* in the Americas. 
 
-If you have any questions or need information not included here, please send an [email]:ariadna.biologia@gmail.com
+If you have any questions or need information not included here, please send an email [ariadna.biologia_at_gmail.com]
 
 ### CITATION
 - Morales AE, De-la-Mora M, Piñero D (2018) [Space and environment predict skull variation and genetic structure in the cosmopolitan bat Tadarida brasiliensis.](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13243) Journal of Biogeography. doi.org/10.1111.jbi.13243 
