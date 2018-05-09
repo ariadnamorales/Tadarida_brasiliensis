@@ -1,6 +1,6 @@
 Tadarida brasiliensis 
 =======
-This gitHub rep contains data and scripts used to analyze genetic structure and morphometric differentiation among populations of the bat species, Tadarida brasiliensis, in the Americas. 
+This gitHub rep contains data and scripts used to analyze genetic structure and morphometric differentiation among populations of the bat species Tadarida brasiliensis in the Americas. 
 
 If you have any questions or need information not included here, please send an [email](ariadna.biologia@gmail.com).
 
