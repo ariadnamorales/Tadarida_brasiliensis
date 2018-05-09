@@ -1,0 +1,68 @@
+## This file contains a description of R objects stored in Tabra_geoMorph.rda
+##
+## For more info please see:
+##  Morales AE, De-la-Mora M, Piñero D (2018) Space and environment predict skull variation and genetic structure in the cosmopolitan bat Tadarida brasiliensis. Journal of Biogeography. doi.org/10.1111.jbi.13243 
+##
+## Contact Info: Ariadna E. Morales [ariadna.biologia@gmail.com]
+
+## Links connecting landmarks per view
+"links.A"
+"links.B"
+"links.C"
+"links.D"
+"links.E"
+
+## Landmark data per view ONLY for those individuals with data for ALL views
+"data.A.allViews"
+"data.B.allViews"
+"data.C.allViews"
+"data.D.allViews"
+"data.E.allViews"
+
+## description of data ONLY for those individuals with data for ALL views
+## order of appearance corresponds to data.VIEW.allViews
+"infoSummarized_a"
+"infoSummarized_b"
+"info.MorphoM"
+
+## Results for analyses performed ONLY with those individuals with data for ALL views
+"pca.A"
+"pca.B"
+"pca.C"
+"pca.D"
+"pca.E"
+"allViews.PC"		#bind PCA scores of each PCA performed per view (equivalent to all shape variables together)	
+"pca.allViews.PC" 	#PCA using all shape variables (i.e. using "allViews.PC")
+"pca.allViews.shapePC1"
+"pca.allViews.shapePC2"
+"pca.allViews.shapePC3"
+
+"allViews.twoPCs"		#bind first 3 PC scores of each PCA performed per view (equivalent to all shape variables together)	
+"pca.allViews.twoPC"
+"craniumViews.twoPCs"
+"dentaryViews.twoPCs"
+
+"Y.A"			# procrustes analysis performed for view A ONLY with those individuals with data for ALL views 
+"Y.B"
+"Y.C"
+"Y.D"
+"Y.E"
+
+
+## Data and info per view for each individual sampled
+## the number of individuals may vary per view
+"data.A"
+"data.B"
+"data.C"
+"data.D"
+"data.E"
+"info.A"
+"info.B"
+"info.C"
+"info.D"
+"info.E"
+
+
+
+
+
